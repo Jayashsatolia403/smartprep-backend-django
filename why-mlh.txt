@@ -1,0 +1,23 @@
+Why do you want to become an MLH Fellow?
+
+
+I would love to join MLH team because :
+    • I will get an opportunity to work on many real world projects which will be a great experience.
+    • I will be able to learn good software engineering industry practices from my mentors and peers.
+    • MLH is a global community so I will get an opportunity to meet brilliant minds across the world and hopefully make new connections which would be helpful in my life and career.
+    • Responsibilities and Project Work associated with MLH fellowship program will help me in developing the skills and experience required to work in a real job.
+    • Finally what i will be doing is coding and nothing is more fun than coding for me.
+
+
+
+
+The MLH Fellowship is a diverse community that welcomes Fellows from a wide range of experiences and backgrounds. What perspective or experience will you bring to the fellowship to strengthen our community?
+
+What i will bring to MLH Community : 
+    • I am proficient in Python & Django. I have good knowledge of Flutter to build cross platform apps.
+    • I can quickly adapt to new technologies which i believe is extremely useful for this role.
+    • Not giving up on problems is best thing I have. If i decide to solve something I will do it no matter how hard it is and even if it's someone else's problem.
+    • I have good debugging skills for example I have fixed bugs in my friend's important project (strict deadline) when i were having no good knowledge of ExpressJS. I took it as challenge read about ExpressJS and fixed it in 3 days waking every night.
+    • I am good team player & mentor. I have played roles of Mentor and Tutor at Our Institute's Chess Club & Induction program.
+    • I have good communication skills so i can explain my ideas to anyone without much effort.
+    • I am very active in many extracurricular activities such as playing chess, badminton and many other sports which keeps my brain sharp and active and my body healthy. So I will be able to work actively in MLH Projects.

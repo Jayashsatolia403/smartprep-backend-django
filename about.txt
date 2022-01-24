@@ -1,7 +1,9 @@
 Briefly describe what this code sample does:
 
 
-Language & Technolgies : Python | Django Rest Framework | Flutter | Sqlite3 | Azure App Service | Stripe API | Admob | Git | VSCode | Linux | Katex.
+Language & Technolgies : Python | Django Rest Framework | Flutter | Sqlite3 | Azure App Service | Stripe API | Admob | Git | VSCode | Linux | Katex | Telegram API.
+
+NOTE : Attached Code Sample is only Backend API par.
 
 Introduction: Developed a mobile application from scratch using flutter that helps users to prepare for various competitive exams held in India by providing : Quality daily questions | Weekly Competitions | Practice Questions | Best Question of the Day | Rewarded Questions | Quote of the Day.
 
@@ -12,12 +14,26 @@ Features :
     4. Access an exam specific Forum where they can discuss questions and other things with their peers.
 
 Technical Details : 
-    • Utilised Django Rest Framework to implement Card Payment using Stripe Payment Gateway, Token Authentication & multiple Features related to questions in API. Used Sqlite3 for Database & Azure for Deployment.
-    • Utilised Flutter to implement Frontend of App, Admob Banner & Rewarded Video Ads, Katex for Maths Questions, Pagination, SplashScreen, Homepage, Practice Section, QuestionView, Sharedpreferences and Sqflite for storing tokens and questions mobile storage.
+    • Utilised Django Rest Framework to implement Card Payment using Stripe Payment Gateway.
+    • Token Authentication & multiple Features related to questions in API.
+    • Used Django ORM for Database models and Used Sqlite3 for Database.
+    • Deployed API and Sqlite Database (to avoid cost of postgres) on Azure App Service (Actually copied and pasted db file again and again on azure persistant storage to keep it persisted).
+
+    
 
 
 
 Briefly describe what you learned when you created this code sample:
 
 
-I learnt about 
+I learnt about : 
+    • API development in django rest framework.
+    • setting up user permissions on each requests, Authenticating Users with their tokens and storing them to database.
+    • Building Database Models using Django ORM and migrating that to database. used drf serializers and django forms.
+    • Telegram api to get questions from telegram channel's polls and some parsing to get questions from pdf books.
+    • latex to store and show maths equations in question and options.
+    • pagination to send data in diffrent pages to avoid performance issues. also got some idea of threading to run long tasks like hosting weekly competition every week. 
+    • stripe payment API to handle payments and subscription and it's implimentation in django. diffrent payment methods and subscription types.
+    • Mobile App Development using Flutter, Implimenting Splash Screen, Admob Advertising, Sqflite and Shared Preferences, Animations and many other widgets.
+    • deployment of django APIs and Sqlite3 Database on Azure App Service. Played with Azure Dashboard and it's services like container registery, app service, Virtual Machines, Postgres Hosting in Azure for Students Subscription.
+
